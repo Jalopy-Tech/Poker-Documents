@@ -15,7 +15,11 @@ There are 5 poker documents in PDF format as follows:
 - **Blind Structures and Low-Stakes Chip Values [Bold Pyramid Chips]**
   A double-sided page reference card for common blind structures and low-stakes chip colors.
 
-There are two folders for two sets the documents: one set for normal viewing in PDF and one set for commercial printing.
+There are two folders for two sets the PDF documents:
+
+ <a href="https://github.com/Jalopy-Tech/Poker-Documents/tree/master/Poker%20PDF%20Documents%20(for%20viewing)">one set for normal viewing</a>  and
+
+ <a href="https://github.com/Jalopy-Tech/Poker-Documents/tree/master/Poker%20PDF%20Documents%20(use%20for%20commercial%20printing)">one set for commercial printing</a>.
 
 ## Commercial Printing
 

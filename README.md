@@ -10,9 +10,9 @@ There are 5 poker documents in PDF format as follows:
   A double-sided page reference card for the poker hand rankings and Texas Hold'em starting hole-card rankings.
 - **Poker Games - Quick Reference Guide**
   A double-sided page quick-reference card for the 14 most commonly played poker games. 
-- **Tournament and Casino Chip Values [Bold Pyramid Chips]**
+- **Tournament and Casino Chip Values (Dice Poker Chips and Bold Pyramid Chips)**
   A double-sided page reference card for tournament and casino chip colors.
-- **Blind Structures and Low-Stakes Chip Values [Bold Pyramid Chips]**
+- **Blind Structures and Low-Stakes Chip Values  (Dice Poker Chips and Bold Pyramid Chips)**
   A double-sided page reference card for common blind structures and low-stakes chip colors.
 
 There are two folders for two sets the PDF documents:
